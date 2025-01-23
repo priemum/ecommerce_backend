@@ -7,7 +7,7 @@ const { userById } = require("../controllers/user");
 
 const {
 	create,
-	vendorById,
+	vendorById,  
 	read,
 	update,
 	list,
